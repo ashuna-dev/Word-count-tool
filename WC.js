@@ -1,4 +1,4 @@
-let button = document.getElementById('Calculatebtn');
+let button = document.getElementById('Calculate');
 
 button.addEventListener('click', function(){
     let word = document.getElementById('wordinput').value;
