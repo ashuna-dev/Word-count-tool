@@ -1,7 +1,7 @@
 let button = document.getElementById('Calculatebtn');
 
 button.addEventListener('click', function(){
-    let word = document.getElementById('str').value;
+    let word = document.getElementById('wordinput').value;
     let count = word.length;
     let outputDiv = document.getElementById('output');
 
