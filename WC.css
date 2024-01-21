@@ -1,5 +1,5 @@
 body{
-    background-image: WC.png ;
+    background-image: url('WC.png');
     text-align: center;
 }
 
